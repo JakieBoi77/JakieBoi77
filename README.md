@@ -29,12 +29,16 @@
 
 <br/>
 
+<div align="center">
+  <h2>My Contributions</h2>
+  <br>
+  <img alt="Snake Eating my Contributions" src="https://raw.githubusercontent.com/JakieBoi77/JakieBoi77/output/github-contribution-grid-snake.svg" />
+</div>
+
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-<a href="http://www.github.com/JakieBoi77"><img src="https://github-readme-stats.vercel.app/api?username=JakieBoi77&theme=react&show_icons=true&rank_icon=github" alt="JakieBoi77's GitHub stats" /></a>
-
-<a href="http://www.github.com/JakieBoi77"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JakieBoi77&show_icons=true&theme=react" /></a>
-
-<a href="https://github.com/JakieBoi77"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakieBoi77&langs_count=8&layout=compact&theme=react" alt="Top Languages" /></a>
+<a href="http://www.github.com/JakieBoi77"><img width=390 src="https://github-readme-stats.vercel.app/api?username=JakieBoi77&theme=react&show_icons=true&rank_icon=github" alt="JakieBoi77's GitHub stats" /></a>
+<a href="http://www.github.com/JakieBoi77"><img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JakieBoi77&show_icons=true&theme=react" /></a>
+<a href="https://github.com/JakieBoi77"><img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakieBoi77&langs_count=8&layout=compact&theme=react" alt="Top Languages" /></a>
 </div>

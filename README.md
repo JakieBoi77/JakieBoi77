@@ -1,4 +1,6 @@
-<h1 align="center">Hi there!👋 I'm Jake Finlay</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&repeat=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Jake+Finlay!;" />
+</h1>
 
 <h3 align="center">I'm a passionate Software Engineer currently studying at McMaster University</h3>
 <br/>
@@ -33,6 +35,7 @@
   <h2>My Contributions</h2>
   <br>
   <img alt="Snake Eating my Contributions" src="https://raw.githubusercontent.com/JakieBoi77/JakieBoi77/output/github-contribution-grid-snake.svg" />
+    <br/><br/><br/>
 </div>
 
 <h2 align="center">GitHub Stats</h2>

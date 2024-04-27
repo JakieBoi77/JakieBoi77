@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&repeat=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Jake+Finlay!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=5000&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+There!%F0%9F%91%8B+I'm+Jake+Finlay!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">I'm a passionate Software Engineer currently studying at McMaster University</h3>

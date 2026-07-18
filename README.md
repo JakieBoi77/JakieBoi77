@@ -6,7 +6,7 @@ Full-stack software developer based in Ontario, Canada <img src="https://flagcdn
 
 I don't ship AI guesswork. I read the code, design by hand, and own the result.
 
-I am a strong advocate for AI, but I treat it like what it is: a tool.
+I am a strong advocate for AI, but I treat it like what it is: **_a tool_**.
 
 > “The tools we use have a profound and devious influence on our thinking habits...”
 >
